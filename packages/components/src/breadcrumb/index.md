@@ -16,7 +16,7 @@ nav:
 
 ```tsx
 import React from 'react';
-import { Breadcrumb } from '@cz160/components';
+import { Breadcrumb } from '@xueyou/components';
 export default () => {
   return (
     <>

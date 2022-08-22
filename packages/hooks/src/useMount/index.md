@@ -17,8 +17,8 @@ nav:
 
 ```tsx
 import React, { useState } from 'react';
-import { useMount } from '@cz160/hooks';
-import { Button, Space } from '@cz160/components';
+import { useMount } from '@xueyou/hooks';
+import { Button, Space } from '@xueyou/components';
 
 export default () => {
   const [num, updateNum] = useState(0);

@@ -6,9 +6,9 @@
 
 ```
 博客地址： www.czhuangjia.top
-组件库： @cz160/components
-方法库： @cz160/utils
-hooks库 @cz160/hooks
+组件库： @xueyou/components
+方法库： @xueyou/utils
+hooks库 @xueyou/hooks
 ```
 
 ## 起步
@@ -72,7 +72,7 @@ lerna add 包名(给所有包安装)
 ```
 
 2. 进行开发
-3. 进行 rebase master 分支后，提交 Pr - cz160
+3. 进行 rebase master 分支后，提交 Pr - xueyou
 4. CodeReview
 5. 合并分支到 master
 

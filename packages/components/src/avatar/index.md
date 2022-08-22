@@ -17,7 +17,7 @@ nav:
 
 ```tsx
 import React from 'react';
-import { Avatar } from '@cz160/components';
+import { Avatar } from '@xueyou/components';
 export default () => {
   return (
     <>

@@ -1,9 +1,9 @@
 {
-  "name": "@cz160/utils",
-  "version": "0.0.6",
+  "name": "@xueyou/utils",
+  "version": "0.0.1",
   "description": "方法库",
-  "author": "陈昭 <chenz@weipaitang.com>",
-  "homepage": "https://github.com/cz160/cz-libs#readme",
+  "author": "xueyou <942237768@qq.com>",
+  "homepage": "https://github.com/yangxueyou/xueyou-lerna#readme",
   "license": "MIT",
   "main": "lib/index.js",
   "directories": {
@@ -19,13 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cz160/cz-libs.git"
+    "url": "git+https://github.com/yangxueyou/xueyou-lerna.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/cz160/cz-libs/issues"
+    "url": "https://github.com/yangxueyou/xueyou-lerna/issues"
   },
   "gitHead": "656a3238ee9001e359465936f41d45f9f2559b72"
 }

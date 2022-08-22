@@ -16,7 +16,7 @@ nav:
 
 ```tsx
 import React from 'react';
-import { Badge } from '@cz160/components';
+import { Badge } from '@xueyou/components';
 import './index.less';
 
 export default () => {

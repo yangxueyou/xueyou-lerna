@@ -16,7 +16,7 @@ nav:
 
 ```tsx
 import React from 'react';
-import { Button } from '@cz160/components';
+import { Button } from '@xueyou/components';
 
 export default () => {
   const setStyle = () => {

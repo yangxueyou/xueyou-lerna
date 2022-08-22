@@ -16,7 +16,7 @@ nav:
 
 ```tsx
 import React, { useState } from 'react';
-import { Tag, Button } from '@cz160/components';
+import { Tag, Button } from '@xueyou/components';
 
 export default () => {
   const log = e => {

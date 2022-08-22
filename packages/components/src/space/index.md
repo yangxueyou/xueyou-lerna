@@ -20,7 +20,7 @@ nav:
  * desc: 默认使用
  */
 import React from 'react';
-import { Space, Button } from '@cz160/components';
+import { Space, Button } from '@xueyou/components';
 
 export default () => {
   return (
@@ -38,7 +38,7 @@ export default () => {
  * desc: direction属性
  */
 import React from 'react';
-import { Space, Button } from '@cz160/components';
+import { Space, Button } from '@xueyou/components';
 
 export default () => {
   return (
@@ -56,7 +56,7 @@ export default () => {
  * desc: size属性
  */
 import React from 'react';
-import { Space, Button } from '@cz160/components';
+import { Space, Button } from '@xueyou/components';
 
 export default () => {
   return (

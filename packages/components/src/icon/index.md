@@ -20,7 +20,7 @@ nav:
  * desc: 默认使用
  */
 import React from 'react';
-import { Icon, Space } from '@cz160/components';
+import { Icon, Space } from '@xueyou/components';
 
 export default () => {
   return (

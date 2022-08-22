@@ -1,17 +1,17 @@
 {
-  "name": "cz",
-  "version": "0.0.3",
+  "name": "xueyou",
+  "version": "0.0.1",
   "scripts": {
     "bootstrap": "yarn clean && lerna bootstrap",
     "clean": "lerna clean -y",
     "createLib": "cd packages && lerna create",
-    "start": "yarn  && dumi dev",
+    "start": "dumi dev",
     "docs:build": "dumi build",
     "deploy": "bash deploy.sh",
     "build": "lerna run build",
-    "build:h": "lerna run build --scope=@cz160/hooks",
-    "build:u": "lerna run build --scope=@cz160/utils",
-    "build:c": "lerna run build --scope=@cz160/components",
+    "build:h": "lerna run build --scope=@xueyou/hooks",
+    "build:u": "lerna run build --scope=@xueyou/utils",
+    "build:c": "lerna run build --scope=@xueyou/components",
     "pub": "lerna publish"
   },
   "main": "dist/index.js",

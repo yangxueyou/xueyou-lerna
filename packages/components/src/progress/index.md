@@ -16,7 +16,7 @@ nav:
 
 ```tsx
 import React from 'react';
-import { Progress } from '@cz160/components';
+import { Progress } from '@xueyou/components';
 export default () => {
   return (
     <>

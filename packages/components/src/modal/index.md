@@ -16,7 +16,7 @@ nav:
 
 ```tsx
 import React, { useState, useCallback } from 'react';
-import { Modal, Button } from '@cz160/components';
+import { Modal, Button } from '@xueyou/components';
 
 export default () => {
   const [visible, setVisible] = useState(false);
